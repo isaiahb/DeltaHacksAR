@@ -1,0 +1,50 @@
+# MTL written from F:\Stuff\objs\meeseeks.obj
+newmtl Meeseeks_032Eyes
+Kd 0 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.8 0.8 0.8
+newmtl Meeseeks_032Hair
+Kd 0.772652 0.0659314 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.06 0.06 0.06
+newmtl Meeseeks_032Inside_032Mouth
+Kd 0.311128 0 0
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.06 0.06 0.06
+newmtl Meeseeks_032Skin
+Kd 0.229453 0.66515 0.8
+Ns 256
+d 1
+illum 2
+Ka 0.0306848 0.132396 0.162
+Ks 0.02 0.02 0.02
+newmtl Meeseeks_032Teeth
+Kd 0.8 0.792834 0.467937
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.8 0.8 0.8
+newmtl Tongue
+Kd 0.8 0.0789514 0.0789514
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.02 0.02 0.02
+newmtl Tongue_032tastebuds
+Kd 0.8 0.0789514 0.0789514
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.02 0.02 0.02
